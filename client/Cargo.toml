@@ -1,0 +1,10 @@
+# client/Cargo.toml
+[package]
+name = "client"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+csv = "1.1"
+plotters = "0.3"
+rand = "0.8"

@@ -1,0 +1,24 @@
+# Ignore macOS .DS_Store files
+.DS_Store
+# Ignore Cargo's output directory
+/target/
+
+# Ignore build artifacts
+**/*.rs.bk
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore environment files
+.env

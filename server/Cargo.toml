@@ -1,0 +1,8 @@
+# server/Cargo.toml
+[package]
+name = "server"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+socket2 = "0.4"
